@@ -7,6 +7,7 @@
 
 
 - 🔭 I’m currently working on [heyqq](https://www.heyqq.app)
+- and Oscar Stories [https://www.oscarstories.com] with @DR7777
 
 - Work as a filmdirector [https://www.matthiasneumayer.com](https://www.matthiasneumayer.com)
 
