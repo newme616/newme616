@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Matthias</h1>
-<h3 align="center">CEO & Co-Founder of <a href="https://www.heyqq.app" target="blank">heyqq.app</a></h3>
-<p align="center"><img src="https://user-images.githubusercontent.com/28349724/185593353-5e0a9e2e-b4bf-40d1-b70b-b6542aac20dd.gif" alt="heyqq" width="380" /></p>
+<h3 align="center">CEO & Co-Founder of <a href="https://www.oscarstories.com" target="blank">oscarstories.com</a></h3>
+
 
 <p align="left"> <a href="https://twitter.com/mnewme" target="blank"><img src="https://img.shields.io/twitter/follow/mnewme?logo=twitter&style=for-the-badge" alt="mnewme" /></a> </p>
 
