@@ -33,4 +33,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/newme616/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/newme616/newme616/output/snake.svg" alt="Snake animation" />
