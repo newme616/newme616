@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Matthias</h1>
-<h3 align="center">CEO & Co-Founder of <a href="https://www.oscarstories.com" target="blank">oscarstories.com</a></h3>
 
-- 🔭 I’m currently working on  [Oscar Stories](https://www.oscarstories.com), [FragDasPDF](https://www.fragdaspdf.de) [Branding5](https://www.branding5.com)
+- Working on [Oscar Stories](https://www.oscarstories.com), [FragDasPDF](https://www.fragdaspdf.de) [Branding5](https://www.branding5.com)
 - both with Dima Rubanov
-
-- Work as a filmdirector [https://www.matthiasneumayer.com](https://www.matthiasneumayer.com)
+- Website [https://www.matthiasneumayer.com](https://www.matthiasneumayer.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
